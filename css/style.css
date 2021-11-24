@@ -1,0 +1,22 @@
+#movies img, #movie img{
+	width:  100% !important;
+}
+
+#movies img{
+
+	min-height:  400px !important;
+	max-height:  400px !important;
+}
+
+.card-title{
+	height :  50px !important; 
+}
+
+.card{
+	box-shadow: rgba(100, 100, 111, 0.5) 0px 7px 29px 0px;
+}
+
+.single-style{
+	padding:  30px 20px;
+	background-color: #1d1d1d;
+}
